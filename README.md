@@ -35,7 +35,7 @@ Certifique-se de que o MySQL está instalado e em execução. Crie um banco de d
 - **spring.datasource.url=jdbc:mysql://localhost:3306/uninorte_aulas?useSSL=false&serverTimezone=UTC**
 - **spring.datasource.username=root**
 - **spring.datasource.password=sua-senha**
-- 
+
 - **spring.jpa.hibernate.ddl-auto=update**
 - **spring.jpa.show-sql=true**
 - **spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect**

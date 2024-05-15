@@ -10,10 +10,11 @@ Este projeto é uma aplicação Spring Boot desenvolvida como parte da aula de W
 - **Documentação da API**: Documentação dos endpoints utilizando Swagger/OpenAPI.
 
 ## Tecnologias Utilizadas
-- **Spring Boot**: Framework principal para ac
+- **Spring Boot**: Framework principal para desenvolvimento java.
+- **Lombok**: Ferramenta para reduzir a verbosidade do código em Java.
 - **Spring Data JPA**: Persistência e acesso a dados.
 - **Spring Security**: Segurança e controle de acesso.
-- **Hibernate**: Implementação
+- **Hibernate**: Implementação.
 - **MySQL**: Banco de dados relacional.
 - **Swagger**: Ferramenta para documentação da API.
 - **Maven**: Gerenciamento de dependências e build da aplicação.

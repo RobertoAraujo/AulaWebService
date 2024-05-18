@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping(value = "/hello")
     public String index(){
-        return "Hello word!";
+        return "Hello World!";
     }
 }
